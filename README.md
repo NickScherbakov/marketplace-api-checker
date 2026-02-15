@@ -39,10 +39,10 @@
 
 Если вы хотите скопировать только структуру проекта:
 
-Структура проекта (все элементы являются файлами):
+Все элементы в корневой директории являются файлами:
 ```
 marketplace-api-checker/
-├── CommonForms           (файл)
+├── CommonForms
 ├── ConfigDumpInfo.xml
 ├── Configuration.xml
 ├── LICENSE
