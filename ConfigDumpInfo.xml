@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.18">
+	<ConfigVersions>
+		<Metadata name="CommonForm.НОП_ФормаПоиска" id="0d4f5a83-d37f-4dd3-80ec-938d498390c7" configVersion="c601d1088af1143e73594d97a78fa882a6d69c96"/>
+		<Metadata name="CommonForm.НОП_ФормаПоиска.Form" id="0d4f5a83-d37f-4dd3-80ec-938d498390c7.0" configVersion="4fc8e35f7ea4f50a50f35704078bd0c7cb0f1826"/>
+		<Metadata name="CommonModule.НОП_ГлобальныйПоискВызовСервера" id="8dc1cad5-ba96-45cb-b9fe-d64e30be4dc3" configVersion="8d8f62557409b321da0ef37f95736ce8501cf584"/>
+		<Metadata name="CommonModule.НОП_ГлобальныйПоискВызовСервера.Module" id="8dc1cad5-ba96-45cb-b9fe-d64e30be4dc3.0" configVersion="b23a54b63db66c86dc036770dbb6f0f133e65402"/>
+		<Metadata name="CommonModule.НОП_ГлобальныйПоискКлиент" id="0065edc6-5795-432a-a87e-173cdf5171d2" configVersion="e34beb2bfdff5c72cde3a56086db3a8f432f3722"/>
+		<Metadata name="CommonModule.НОП_ГлобальныйПоискКлиент.Module" id="0065edc6-5795-432a-a87e-173cdf5171d2.0" configVersion="2119649477650adc737657d1dfafa5bc33c3578d"/>
+		<Metadata name="CommonModule.НОП_ГлобальныйПоискКлиентСервер" id="8547ac65-1395-4746-b259-f69388ba88fb" configVersion="b3ecf5d32d01185c216e03df87280049284e094a"/>
+		<Metadata name="CommonModule.НОП_ГлобальныйПоискКлиентСервер.Module" id="8547ac65-1395-4746-b259-f69388ba88fb.0" configVersion="0fc86464fc1780826df58609f21c5e721c747696"/>
+		<Metadata name="CommonModule.НОП_ГлобальныйПоискСервер" id="8892d5ca-a741-4809-a4ff-5ba8080ef6c1" configVersion="93c2be27808793a3f3eb056a4397f559d40d9305"/>
+		<Metadata name="CommonModule.НОП_ГлобальныйПоискСервер.Module" id="8892d5ca-a741-4809-a4ff-5ba8080ef6c1.0" configVersion="7a9baf2aa3a8d8468258607ca6e4fd4455695633"/>
+		<Metadata name="CommonModule.НОП_ОтправитьЗаданиеНопиСервер" id="00a75809-49c2-4c4a-985a-186ada9c57c8" configVersion="80ef287510c2b6ba817017b39ba6f34c2dff3ffc"/>
+		<Metadata name="CommonModule.НОП_ОтправитьЗаданиеНопиСервер.Module" id="00a75809-49c2-4c4a-985a-186ada9c57c8.0" configVersion="ce3784521d2d501962554383c1a2549fe4e8e71d"/>
+		<Metadata name="Configuration.НОПик" id="997af21e-0c30-443e-ad61-125bdce09c6a" configVersion="de0d0ef902e04b15eaec0fa97f2d84122e8094e7"/>
+		<Metadata name="Configuration.НОПик.CommandInterface" id="032cea1d-06d5-4621-a4bb-699e4212e0e9.a" configVersion="fdaec039eea90396e8275a4185f01ff2ce9f09af"/>
+		<Metadata name="Configuration.НОПик.MainSectionCommandInterface" id="032cea1d-06d5-4621-a4bb-699e4212e0e9.9" configVersion="8d70450ba65cda1fb989d2d0ac964cba83e14830"/>
+		<Metadata name="Configuration.НОПик.ManagedApplicationModule" id="032cea1d-06d5-4621-a4bb-699e4212e0e9.6" configVersion="318571e35bc000b031b97a79ae35704989f3fe7d"/>
+		<Metadata name="Constant.НОП_АдресСервисаНОПи" id="6f3cf139-88af-4b2b-9054-9a382f45f60d" configVersion="0edbbd48658091143ba5baed8d0d0ce9a23db38d"/>
+		<Metadata name="InformationRegister.НОП_ИсторияВзаимодействияНопик" id="144b17a4-0025-493b-8094-e8577f30eff1" configVersion="157f4c235af42ff39a845111307bd8a15c0a5404">
+			<Metadata name="InformationRegister.НОП_ИсторияВзаимодействияНопик.Attribute.Поле_2" id="0d6ab208-091e-4444-b444-dd08622bfe4a"/>
+			<Metadata name="InformationRegister.НОП_ИсторияВзаимодействияНопик.Dimension.Поле_1" id="15d44cb4-6307-47c1-bb30-ca87efaec37e"/>
+			<Metadata name="InformationRegister.НОП_ИсторияВзаимодействияНопик.Resource.Поле_4" id="27e960db-0ce3-4859-a689-3ee3317e767c"/>
+			<Metadata name="InformationRegister.НОП_ИсторияВзаимодействияНопик.Dimension.Поле_0" id="51016788-5523-4b0f-b02b-c5a2acc04a03"/>
+			<Metadata name="InformationRegister.НОП_ИсторияВзаимодействияНопик.Resource.Поле_3" id="86f5c220-7f45-41cc-bb4b-07616271100f"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="63c99ab4-c0d1-48e4-b2a4-33dbbac7c708" configVersion="f92cbdbdcb7d0e96a30a73c87cb45e56399e8362"/>
+		<Metadata name="Role.НОП_ОсновнаяРоль" id="c3b57f61-2c18-4dbc-8e68-34776501748d" configVersion="97f47d7028a2d756233774eaf9b91956be20cf6f"/>
+		<Metadata name="Subsystem.НОП_ПодсистемаКонтроляAPIМаркетплейсов" id="35638513-ca9d-4817-acbd-21193031b2c4" configVersion="69f3d43d2d2ce3b74146dc4d251de833fbbc15a5"/>
+		<Metadata name="Subsystem.НОП_ПодсистемаКонтроляAPIМаркетплейсов.CommandInterface" id="35638513-ca9d-4817-acbd-21193031b2c4.1" configVersion="fdaec039eea90396e8275a4185f01ff2ce9f09af"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
