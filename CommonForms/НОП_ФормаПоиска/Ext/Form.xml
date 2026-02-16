@@ -177,20 +177,20 @@
 										<Event name="Click">КнопкаНачалоНажатие</Event>
 									</Events>
 								</LabelDecoration>
-								<LabelDecoration name="КнопкаПредыдущая" id="56">
-									<Title formatted="false">
-										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Предыдущая</v8:content>
-										</v8:item>
-									</Title>
-									<Hyperlink>true</Hyperlink>
-									<ContextMenu name="bPrevКонтекстноеМеню" id="57"/>
-									<ExtendedTooltip name="bPrevРасширеннаяПодсказка" id="58"/>
-									<Events>
-										<Event name="Click">КнопкаСледующаяНажатие</Event>
-									</Events>
-								</LabelDecoration>
+							<LabelDecoration name="КнопкаПредыдущая" id="56">
+								<Title formatted="false">
+									<v8:item>
+										<v8:lang>ru</v8:lang>
+										<v8:content>Предыдущая</v8:content>
+									</v8:item>
+								</Title>
+								<Hyperlink>true</Hyperlink>
+								<ContextMenu name="bPrevКонтекстноеМеню" id="57"/>
+								<ExtendedTooltip name="bPrevРасширеннаяПодсказка" id="58"/>
+								<Events>
+									<Event name="Click">КнопкаПредыдущаяНажатие</Event>
+								</Events>
+							</LabelDecoration>
 								<UsualGroup name="ГруппаТекущаяСтраница" id="74">
 									<ToolTipRepresentation>None</ToolTipRepresentation>
 									<Group>Horizontal</Group>
@@ -214,20 +214,20 @@
 										</LabelDecoration>
 									</ChildItems>
 								</UsualGroup>
-								<LabelDecoration name="КнопкаСледующая" id="62">
-									<Title formatted="false">
-										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Следующая</v8:content>
-										</v8:item>
-									</Title>
-									<Hyperlink>true</Hyperlink>
-									<ContextMenu name="bNextКонтекстноеМеню" id="63"/>
-									<ExtendedTooltip name="bNextРасширеннаяПодсказка" id="64"/>
-									<Events>
-										<Event name="Click">КнопкаПредыдущаяНажатие</Event>
-									</Events>
-								</LabelDecoration>
+							<LabelDecoration name="КнопкаСледующая" id="62">
+								<Title formatted="false">
+									<v8:item>
+										<v8:lang>ru</v8:lang>
+										<v8:content>Следующая</v8:content>
+									</v8:item>
+								</Title>
+								<Hyperlink>true</Hyperlink>
+								<ContextMenu name="bNextКонтекстноеМеню" id="63"/>
+								<ExtendedTooltip name="bNextРасширеннаяПодсказка" id="64"/>
+								<Events>
+									<Event name="Click">КнопкаСледующаяНажатие</Event>
+								</Events>
+							</LabelDecoration>
 							</ChildItems>
 						</UsualGroup>
 					</ChildItems>
